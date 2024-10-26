@@ -93,7 +93,7 @@ function App() {
       </div>
 
       {/* LinkedIn Icon */}
-      <div className="fixed bottom-6 right-6 w-[60px] h-[60px] overflow-hidden">
+      <div className="fixed bottom-0 right-0 w-[60px] h-[60px] overflow-hidden">
         {/* Background Circle for LinkedIn Icon */}
         <div className="absolute bottom-0 right-0 w-[120px] h-[120px] bg-[#0077b5] rounded-full transform translate-x-1/2 translate-y-1/2"></div>
 
